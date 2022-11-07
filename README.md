@@ -2,4 +2,4 @@ I maintain Prometheus (particularly promtool) and contribute to various open sou
 
 Elsewhere:
 
-* <a href="https://infosec.exchange/@dgl" rel="me">Mastodon</a>
+* https://一.st
